@@ -21,7 +21,7 @@ TEST my CoCopaPod
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/xhsiung@gmail.com/TestPod'
+  s.homepage         = 'https://github.com/xhsiung/TestPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xhsiung@gmail.com' => 'xhsiung@gmail.com' }
